@@ -1,5 +1,5 @@
 <?PHP
 
-echo "Hi I am the Index"
+echo "Hi I am the Index";
 
 ?>
